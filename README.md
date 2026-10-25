@@ -16,6 +16,7 @@
 
 ## Configurar las variables de entorno:
 1. **Crea un archivo .env en la raíz del proyecto basándote en tus credenciales:**
+    ```env
     DB_USER=tu_usuario
     DB_PASSWORD=tu_password
     DB_HOST=localhost
@@ -29,4 +30,5 @@
 
 ## Iniciar el servidor:
    1. **En la terminal del proyecto, ejecuta:**
+   ```env
     node index.js
